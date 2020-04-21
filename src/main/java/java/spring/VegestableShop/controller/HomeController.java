@@ -8,6 +8,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 @Controller
 //Cần thiết cho Hibernate Transaction.
+// source đâu mà chạy lỗi hết vậy
 @Transactional
 //Cần thiết để sử dụng RedirectAttributes
 @EnableWebMvc
