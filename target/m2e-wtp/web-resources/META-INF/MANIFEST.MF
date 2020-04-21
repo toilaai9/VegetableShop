@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: THI
-Build-Jdk: 12
+Built-By: Mien Trung CPT
+Build-Jdk: 13.0.1
 Created-By: Maven Integration for Eclipse
 
