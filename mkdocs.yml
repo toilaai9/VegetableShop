@@ -1,6 +1,7 @@
 site_name: VegetableShop
+
 nav:
   - Home: index.md
-  - Others: docs/other.md  # nếu có
+
 theme:
   name: readthedocs
